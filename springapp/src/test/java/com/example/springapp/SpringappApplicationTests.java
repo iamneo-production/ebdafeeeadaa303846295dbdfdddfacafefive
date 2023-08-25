@@ -1,8 +1,5 @@
 package com.example.springapp;
 
-
-
-
 import com.example.springapp.controller.TemperatureController;
 
 import com.example.springapp.service.TemperatureService;
